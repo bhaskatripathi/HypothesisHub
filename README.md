@@ -39,3 +39,6 @@ sequenceDiagram
 ```
 ## Output
 ![Output image](https://github.com/bhaskatripathi/HypothesisHub/blob/main/output.png)
+
+## NOTE
+Please give a star if you like this project and find it useful.
