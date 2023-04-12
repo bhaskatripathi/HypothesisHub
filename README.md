@@ -34,3 +34,5 @@ sequenceDiagram
     OpenAI->>-ResearchAndHypothesisGenerator: return hypotheses
     ResearchAndHypothesisGenerator->>-User: return research questions and hypotheses
 ```
+## Output
+![Output image](https://github.com/bhaskatripathi/HypothesisHub/blob/main/output.png)
