@@ -42,3 +42,7 @@ sequenceDiagram
 
 ## NOTE
 Please give a star if you like this project and find it useful.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bhaskatripathi/HypothesisHub&type=Date)](https://star-history.com/#bhaskatripathi/HypothesisHub&Date)
+
