@@ -1,5 +1,5 @@
 # HypothesisHub
-HypothesisHub is an AI Tool for Automated Research Question and Hypothesis Generation from a given Scientific Literature. It applies a chain of thought process to generate research questions and hypotheses from given scientific literature. The tool uses OpenAI and Langchain to generate questions and hypotheses from the given text.
+HypothesisHub is an AI Tool for the Automated Generation of Research Questions and Hypotheses from Scientific Literature. It applies a chain of reasoning to scientific literature to generate questions and hypotheses. OpenAI and Langchain serve as the underlying technologies for the tool.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhaskatripathi/HypothesisHub/blob/main/Hypothesis_Hub.ipynb)
 
