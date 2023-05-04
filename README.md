@@ -38,7 +38,7 @@ sequenceDiagram
     ResearchAndHypothesisGenerator->>-User: return research questions and hypotheses
 ```
 ## Output
-[![Output image](https://github.com/bhaskatripathi/HypothesisHub/blob/main/output.png)](https://github.com/bhaskatripathi/HypothesisHub/blob/main/output.png)
+[![Output image](output.png)](https://github.com/bhaskatripathi/HypothesisHub/blob/main/output.png)
 
 ## NOTE
 Please give a star if you like this project and find it useful.
